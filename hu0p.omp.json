@@ -22,7 +22,7 @@
         },
         {
           "foreground": "#14A5AE",
-          "powerline_symbol": "",
+          "powerline_symbol": "|",
           "properties": {
             "fetch_upstream_icon": true
           },
